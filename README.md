@@ -10,7 +10,7 @@ This program copys muliple files from current directory to specific directory us
 
 ### 2. Usage Example & Testing
 
-#### How To Use?
+### How To Use?
 
 1. Use gcc to compile main.c
 
@@ -32,7 +32,7 @@ gcc main.c
 * \<directory name> should be under 256
 * Last Parameter should be \<directory name>
 
-#### Testing
+### Testing
 
 #### SUCCESS CASE
 
