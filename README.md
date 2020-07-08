@@ -1,4 +1,4 @@
-# Multi File Copy Program
+# Multi File Copy
 
 ## Introduction
 
