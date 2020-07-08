@@ -36,7 +36,7 @@ gcc main.c
 
 #### 1. SUCCESS CASE
 
-#### 1.1Relative Path
+#### 1.1 Relative Path
 
 INPUT
 
