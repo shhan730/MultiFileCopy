@@ -34,9 +34,9 @@ gcc main.c
 
 #### Testing
 
-##### SUCCESS CASE
+#### SUCCESS CASE
 
-* Relative Path
+##### Relative Path
 
 INPUT
 
@@ -78,7 +78,7 @@ Length : 6
 apple
 ```
 
-* Absolute Path
+##### Absolute Path
 
 INPUT
 
@@ -120,9 +120,9 @@ Length : 6
 apple
 ```
 
-##### ERROR CASE
+#### ERROR CASE
 
-* File Not Found
+##### File Not Found
 
 INPUT
 
@@ -137,7 +137,7 @@ ARGC : 7
 ERROR: Number 4 file dosen't exist
 ```
 
-* DIR not found
+##### DIR not found
 
 INPUT
 
@@ -152,7 +152,7 @@ ARGC : 7
 ERROR: ./noDIR DIR dosen't exist
 ```
 
-* Less Parameter
+##### Less Parameter
 
 INPUT
 
